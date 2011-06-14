@@ -1,0 +1,7 @@
+960gs-print
+===========
+
+convert.py just converts all the px values in 960gs into pt values so that the
+total width fits an A4 size paper.
+
+                          pt = ( 595 / 960 ) * px
